@@ -6,7 +6,7 @@
 
 ## Índice
  
- - [Título e Imagem de capa](#Listagem-Pokémon)
+ - [Título e Imagem de capa](#Landing-Page)
  - [Descrição do projeto](#Descrição-do-projeto)
  - [Tecnologias Utilizadas](#Tecnologias-Utilizadas)
  - [Deploy](#Deploy)
